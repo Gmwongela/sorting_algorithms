@@ -1,0 +1,3 @@
+in the best case: O(n + k)
+in the average case: O(n + k)
+in the worst case: O(n + k)
